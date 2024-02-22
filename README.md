@@ -23,7 +23,20 @@ CPUにIntel 4040を採用したシングルボードコンピュータです．4
 - PMR命令の動作確認
 - モニタプログラム，VTL, 8080エミュレータ等を4040用にリライト
 
-## ソフトウェア開発環境
+## ブログ
+関連する情報が書いてあるかも．
+- [Intel 4004 関連記事の目次@ブログの練習](https://blog.goo.ne.jp/tk-80/e/3fa1e2972737c7b7d1b83f4e7bd648a2)
+
+## 動画
+Youtubeで関連動画を公開しています．
+- https://www.youtube.com/@ryomukai/videos
+
+## 参考にした文献，サイト
+### データシート
+- http://www.bitsavers.org/components/intel/
+- https://www.intel-vintage.info/intelmcs.htm
+
+### ソフトウェア開発環境
 - [The Macroassembler AS](http://john.ccac.rwth-aachen.de:8000/as/)
 
 ## 更新履歴
